@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 pizza2
 Oranges
 Apples
@@ -10,3 +11,6 @@ pizza1
 =======
 pizza1
 >>>>>>> parent of c79b5d2... Modified foods.txt
+=======
+pizza
+>>>>>>> parent of c895c7c... Modified foods.txt
