@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 pizza2
 Oranges
 Apples
 cake
+=======
+pizza1
+>>>>>>> parent of c79b5d2... Modified foods.txt
 =======
 pizza1
 >>>>>>> parent of c79b5d2... Modified foods.txt
